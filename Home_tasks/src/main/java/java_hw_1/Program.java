@@ -1,6 +1,6 @@
-package Java_hw_1;
+package java_hw_1;
 
-public class hw_1 {
+public class Program {
     public static void main(String[] args) {
         int a = 7;
         int b = 9;
