@@ -1,6 +1,7 @@
-package java_hw_5;
+package java_hw_6;
+
 import java.util.Random;
-    import java.util.Scanner;
+import java.util.Scanner;
     public class NumbersApplication {
         private String name;
         private int gameNumber;
