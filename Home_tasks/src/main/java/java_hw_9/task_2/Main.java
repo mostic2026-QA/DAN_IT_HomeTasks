@@ -1,4 +1,4 @@
-package java_hw_9_task_2;
+package java_hw_9.task_2;
 
 import java.util.HashSet;
 import java.util.Set;

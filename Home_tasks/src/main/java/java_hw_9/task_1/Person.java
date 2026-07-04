@@ -1,4 +1,4 @@
-package java_hw_9_task_2;
+package java_hw_9.task_1;
 
 import java.util.Objects;
 
